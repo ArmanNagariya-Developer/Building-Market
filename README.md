@@ -3,6 +3,9 @@
 Unzip the File and Open in Visual Studio 
 
 your Vesrsion Must be C# .NET Core 8.0 in Visual Studio IDE
+**Note:** If You are getting error in project then just unzip **bin** and paste in /Building-Market-main/building_market on this path Like this :
+
+![image](https://github.com/ArmanNagariya-Developer/Building-Market/assets/132456280/2c7ae380-c672-4a75-ab65-141c189dcd2e)
 
 **Page:**
 
